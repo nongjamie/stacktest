@@ -1,8 +1,11 @@
 package ku.util;
 
-
+/**
+ * DummyStack class.
+ * @author Sathira Kittisukmongkol
+ */
 public class DummyStack implements Stack<String> {
-
+	
 	@Override
 	public String pop() {
 		// TODO Auto-generated method stub
